@@ -17,3 +17,6 @@ This Virus opening browser until the pc going to down.
 # :radioactive: Another Tools and Viruses :radioactive:
 
 You can see my another viruses and tools from 👉 [here](https://www.github.com/saed-gpr) :point_left:
+
+
+Author : [Saed Gholipour](https://github.com/saed-gpr)
